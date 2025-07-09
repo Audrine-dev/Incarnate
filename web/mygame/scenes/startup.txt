@@ -1,0 +1,338 @@
+*title Incarnate
+*author Audrine
+*scene_list
+  startup
+
+
+*label trigger_w
+[b]Trigger Warning[/b]
+
+This story contains sensitive themes and disturbing content that may be triggering for some readers.
+Please proceed with care and awareness.
+
+[b]Content Warnings include:[/b]
+
+Mentions of Emotional and Physical Abuse
+
+Mentions of Mass Violence / Massacre
+
+Medical Horror / Hospital Violence
+
+Loss of Autonomy / Mind Control
+
+Cult Behavior and Fanaticism
+
+Death of Named Characters
+
+Mentions of Self-Harm
+
+These themes are explored with emotional intensity and are central to the story’s atmosphere and character journeys.
+However, your safety and emotional comfort matter more than anything.
+
+[i]A Note from the Author[/i]
+
+If you ever find this story too heavy, please don’t hesitate to step away.
+Drink water. Take a breath. Be gentle with your heart.
+
+This world will wait for you.
+Your well-being always comes first.
+Thank you for being here.
+
+With care,
+
+Audrine
+*page_break The Saint Dymphna’s Asylum Massacre
+
+*label prologue
+
+[b]The Mirrored Hour[/b]
+
+The flicker of the overhead lights was the first sign that something was wrong.
+
+Nurse Evangeline adjusted the IV drip for the patient in room 17, her hands steady despite the creeping chill crawling up her spine. 
+The antiseptic scent of [i]Saint Dymphna Asylum[/i] was a strange comfort, a sterile shield against the chaos she knew awaited beyond these walls. 
+But tonight, even that sharp, clean smell seemed to carry a hint of rot—something [i]sour[/i] lurking beneath the surface.
+
+She paused before stepping out of the room to [i]gently[/i] tuck the patient's blanket beneath his chin. "Warm enough, Mr. Halvorsen?" she asked [i]softly[/i]. 
+His eyes fluttered open, cloudy but calm, and he managed a faint nod. She gave him a smile—one of those real, weary ones, full of quiet understanding. 
+[i]"I'll check on you again before shift change, alright?"[/i]
+
+The corridor stretched ahead, long and silent but for the faintest [i]hum[/i] beneath her boots. 
+It was subtle at first, easy to mistake for the building’s old plumbing or the restless stirrings of the patients. 
+But as she moved, the hum deepened, growing louder, a vibration that prickled her skin and sent a cold shiver darting through her nerves.
+
+Rooms 18 and 19 lay ahead, their doors cracked open, spilling weak light into the hallway. 
+Evangeline paused by [i]room 18[/i], where a man with wild eyes stared at the ceiling, lips moving in silent prayer or perhaps desperate [i]madness[/i]. 
+She swallowed hard and forced herself onward.
+
+But not before stepping inside and gently refilling the man's water cup, brushing back the damp curls from his forehead. 
+"Shh, Isaiah," she murmured, kneeling beside him. "You're safe. It's just the storm outside." 
+Her voice was soft, patient—the same one she'd used for [i]her son[/i] when he was afraid of thunder. 
+For a moment, the man's lips stopped moving, and he blinked at her as if truly seeing her. Then, just as quickly, [i]the panic[/i] returned. 
+Still, she let him hold her hand for a heartbeat longer before slipping away.
+*page_break Next
+
+She reached the nurses' station and tapped the old landline — [i]no signal[/i]. The static buzzed in her ear like insects. 
+Frowning, she checked the monitors—several of them had gone dark, just black screens with blinking cursors.
+
+“You’re alright, Eva,” she whispered to herself. “It’s just another power surge.” But her hands trembled slightly. 
+Not from fear of the dark—but from what it [i]reminded[/i] her of. The basement. The broken bulb in the hallway. 
+The way he used to stand just outside the reach of the light so she couldn’t see his face when he said those [i]awful[/i] things.
+
+Her heart hammered, not just from the growing unease in the asylum, 
+but from a memory she fought to suppress—the way her ex had cornered her in a room just like this, [i]the cold anger[/i] in his voice, 
+the desperation that had spilled into [i]violence[/i]. She squeezed her fists, willing those ghosts to stay buried.
+
+She was no stranger to pain—too well acquainted with it, in fact. 
+[i]The bruises[/i] hidden beneath her sleeves, the late nights spent tiptoeing around sleeping children, 
+the quiet phone calls from a lawyer about custody battles and restraining orders. Her past wasn’t just a shadow; it was [i]a weight[/i] she carried every day. 
+Years ago, she had fled a man whose love had turned to violence, leaving behind broken promises and shattered trust. 
+Her two children, the only [i]light[/i] in her fractured world, were her reason to keep going—even when the darkness inside threatened to [i]consume[/i] her.
+
+Tonight, the asylum’s creeping dread was different, but it whispered the same message: [i]some nightmares don’t end when the sun rises[/i].
+
+[i]"Evangeline?"[/i]
+*page_break Next
+
+The voice came from behind her—gentle, uncertain.
+
+Camila stood in the doorway of the common room, clutching a worn clipboard to her chest. Young, bright-eyed, too soft for this job. 
+She reminded Evangeline of her daughter at seventeen—full of questions and afraid to ask any of them.
+
+"Scanner’s dead again," Camila muttered, cheeks flushed. "And I think these doses are logged wrong. I—I don’t want to mess anything up."
+
+Evangeline offered a small, warm smile. She always made time for [i]kindness[/i]. Even when she had nothing left to give. “You didn’t mess up. Come here.”
+
+She scanned the log with a practiced eye, fingers brushing Camila’s hand—firm, steady, [i]motherly[/i]. “It’s just a mislabel. Easy fix.”
+
+Camila let out a breath. “You’re always so calm.”
+
+“Not calm,” Evangeline said softly, lips tilting into a tired smirk. [i]“Just too old to panic.”[/i]
+
+The joke didn’t land, not fully. But Camila smiled anyway, the tension easing from her shoulders.
+
+“Go check Room 12 for me, would you?” Evangeline said. “Double-check the chart. Take a moment. [i]Breathe.[/i]”
+
+Camila nodded and turned to go. Evangeline watched her retreating figure and thought—not for the first time—that she hoped the girl would get out of here. 
+Leave this job. Leave this [i]place[/i]. Before it hollowed her out the way it had hollowed so many.
+
+A dull ache pressed behind her ribs, sudden and sharp. She thought of her daughter again—[i]Cecilia[/i], bright, stubborn Cecilia — 
+halfway across the country now with a child of her own and a night shift at a battered women’s shelter. 
+They hadn’t spoken in months. Not because of hate, just... [i]exhaustion[/i]. Too many apologies left unsaid. Too much love tangled in old wounds.
+
+But she was trying. God, she was trying.
+
+Sometimes, Evangeline would catch herself writing letters to her that she never sent. Notes about nothing in particular. A good soup recipe. 
+A funny patient quote. A half-remembered lullaby. She kept them folded in her coat pocket like talismans. 
+Proof she was still [i]a mother[/i], even at the end of the line.
+
+And her son, still too young to understand why his mother always came home with eyes too tired to cry.
+
+Her heart stung. She turned back to the hallway.
+*page_break Next
+
+As she passed room 19, a sudden noise—a faint scrape against the floor—made her [i]flinch[/i]. Her breath caught. 
+It was the kind of sudden, sharp sound that could unspool the fragile calm she’d fought to build, 
+the same [i]panic[/i] she felt when she heard footsteps behind her in dark hallways long ago. 
+She closed her eyes briefly, drawing in a shaky breath, thinking of her children waiting at home, safe—or so she hoped.
+
+The dim light above flickered again, and Evangeline’s mind flashed to another memory: 
+the bruises she’d hidden from the world, [i]the promises[/i] she’d made to herself to never go back, the small voice inside that told her she was worth [i]more[/i]. 
+Yet here, in these endless halls, that voice felt faint—like it was being swallowed by the cold, sterile walls.
+
+She pressed her palm to the wall for support, feeling the rough texture beneath her fingers, [i]grounding[/i] herself. 
+Every step forward was a battle—not just against the creeping fear in the asylum, but the haunting past that clung to her like a second skin.
+
+A sudden echo of a shout, distant but sharp, jolted her. 
+Her heart raced, not just from the sound but from the memory it stirred—the night she had fled, the frantic packing, the locked door, 
+and the shattering crash behind her as he tried to [i]break in[/i]. She swallowed hard, fighting back the tremor in her hands.
+
+The lights flickered again. A long, low groan echoed through the building, almost like the sound of metal warping under pressure.
+
+Then, [i]a scream[/i].
+
+Short. Cut off.
+
+Evangeline didn’t hesitate. She was already moving, shoes squeaking faintly against the linoleum, past room 20, then 21. 
+The scream hadn’t been loud—but she [i]knew[/i] her patients. Knew their voices, their silences, their suffering. 
+And she couldn’t—[i]not ever[/i]—ignore a cry like that.
+
+She remembered how her daughter used to scream like that in the night, back when they lived in [i]the shelter[/i]. 
+She’d hold her close, rub her back in slow circles, whisper stories of quiet forests and safe cabins with warm soup waiting inside. 
+She never wanted anyone—[i]anyone[/i]—to feel as alone as her baby did then.
+
+The humming deepened. It was beneath her skin now, crawling up her spine like fingers pressing bone.
+
+Her footsteps echoed softly, but behind them, something else stirred. 
+A low murmur, a whispering at the edges of hearing, like voices just beyond comprehension. She stopped, heart skipping. 
+The asylum was old, its walls soaked with the memories of pain and madness—but this was [i]different[/i].
+
+There was a coldness here that wasn’t just the night air seeping through cracks. It was something older, [i]deeper[/i]. 
+Something that promised pain far worse than any she’d known before.
+
+And yet, she had to keep moving. For them. For the fragile hope that somewhere beyond this night, a future waited.
+
+The radio at the nurse’s station crackled, and for a moment, static was all she heard. 
+Then came the broken words: [i]“Code Grey Echo… lockdown breach… containment failure…”[/i]
+
+She rounded the corner—
+*page_break And stopped
+
+Her breath caught in her throat.
+
+She quickened her pace, fingers trembling as she gripped the railing. Down the hall, a flicker of movement—shadow stretching, twisting unnaturally. 
+Patients in room 22 banged their fists against the walls, screaming in a language she couldn’t understand, voices layered with something… [i]foreign[/i].
+
+The hum became a pulse, slow and heavy, like a heartbeat buried beneath stone.
+
+Evangeline’s pulse quickened in response.
+Then came the screams
+
+A sharp, ragged sound that tore through the corridors like glass shattering. The cries of the frightened, the injured, the lost. 
+They spilled from the east wing, near the delivery ward, where new lives should be greeted with hope, not terror.
+
+[i]“God, no—”[/i] she whispered, already moving.
+
+She ran.
+
+Her shoes slapped against cracked tiles, the air thick with dust and the metallic tang of blood. Her breath came in ragged gasps. 
+The world around her seemed to narrow to a pinprick of light and sound—a tightrope stretched over an abyss.
+
+A door creaked open, and she glimpsed the source of the screams. Nurses and doctors were scattering, faces pale, eyes wide with [i]horror[/i]. 
+Patients writhed on the floor, some convulsing violently, others silent, their eyes empty.
+
+She reached out to steady a young woman collapsing near the nurses’ station, but the touch burned cold—like [i]ice[/i] sliding beneath her skin.
+
+Lights flickered violently. Shadows danced on the walls, growing longer, twisting into grotesque shapes that seemed almost alive. 
+The hum became a roar, a wave crashing over the asylum’s fractured bones.
+*page_break Next
+
+Time [i]fractured[/i]. Moments stretched and folded over themselves, slipping like water through her fingers. 
+She clutched the wall for balance, nausea twisting her stomach. Her mind reeled—past and present blending, memories bleeding through like light through gauze.
+
+She saw herself at [i]seven[/i], huddled in a locked closet while her father kicked down the kitchen door. She was [i]seventeen[/i] again, 
+biting her lip to stay quiet as her husband punched a hole through the plaster two inches from her head. 
+Then she was [i]twenty-five[/i], in the dark of a silent bedroom, whispering lullabies to a baby she could no longer afford to feed.
+
+The echo in the air wasn’t just the asylum breaking—it was her, breaking with it.
+
+Time fractured. Moments stretched and folded over themselves, slipping like water through her fingers.
+
+She caught her reflection in a shattered window—her eyes wild, mouth parted in a silent scream, hands trembling.
+
+And in the flicker of broken glass, she saw another face.
+
+A patient. [i]Elsie.[/i]
+
+Elsie, who hummed to herself like a wind-up toy. Who had come close to ending her life three times that year alone. 
+Who trusted Evangeline enough to let her braid her hair. She was still there—huddled against the far wall, shaking violently. 
+The world was coming undone, and she was just a girl again. A [i]terrified[/i] girl trapped in her own head.
+*page_break Evangeline didn’t hesitate
+
+She bolted toward her, dodging a nurse being thrown against the wall by an unseen force. Blood streaked the tiles. 
+A man in a lab coat screamed as the lights above burst in showers of glass and sparks. 
+Evangeline threw herself down beside Elsie and pulled her close, [i]shielding her[/i] with her own body.
+
+“I’ve got you,” she whispered, voice cracking. “I’ve got you, [i]sweet girl[/i].”
+
+Elsie sobbed against her chest, clinging like a child. 
+Her fingernails dug into Evangeline’s uniform, trembling hands wrapped in fistfuls of fabric, as if letting go meant being swallowed whole. 
+The air crackled around them, thick with something not entirely [i]human[/i]. 
+Not quite heat, not quite light—more like the pressure before a scream, a storm curled inside the lungs of the world.
+
+Behind them, the hallway had begun to peel. Not physically—yet—but perceptibly, like wallpaper soaked in gasoline, blistering at the edges. 
+The shadows were no longer content to linger; they reached now, curling up the walls like fingers.
+
+The corridor convulsed. The lights [i]flared[/i] violently, strobing between too-bright and pitch-black. 
+Walls seemed to breathe, bulging outward like something beneath them was trying to get free.
+Behind them, the hallway had begun to peel. Not physically—yet—but perceptibly, like wallpaper soaked in gasoline, blistering at the edges.
+The shadows were no longer content to linger; they reached now, curling up the walls like fingers.
+
+The corridor convulsed. The lights [i]flared[/i] violently, strobing between too-bright and pitch-black.
+Walls seemed to breathe, bulging outward like something beneath them was trying to get free.
+
+Camila stumbled into view from the far corridor, one arm cradling her ribs, the other slick with [i]blood[/i]. 
+Her eyes locked on Evangeline’s—wide, terrified, pleading.
+Without a word, Eva reached out, catching her wrist and pulling her down into the small shelter of her body, wrapping both girls in her arms.
+Camila didn’t speak. She just pressed her forehead to Evangeline’s shoulder, [i]shaking[/i] like a leaf.
+*page_break And then, the world exploded
+
+A pulse tore through the asylum—a soundless quake that rattled through her bones. Lights shattered in a cascade of sparks. 
+Doors unhinged, windows burst inward, glass raining like knives.
+
+Then a burst of blinding light tore through the building, ripping flesh from bone, hope from despair. 
+Reality split at the seams—doors flew from hinges, metal screamed, the floor cracked like old ice.
+
+From the east wing came a scream—a different one. New. Fragile. [i]A baby's cry.[/i]
+
+Eva froze.
+
+She was nowhere near the delivery ward. She hadn’t been there all night. 
+But she felt it—like a thread pulled tight through her soul, the unmistakable cry of life announcing itself in the middle of death.
+
+The hum surged to a roar. The air folded in on itself. Elsie screamed. 
+Camila clutched her tighter, whispering a name—maybe a prayer, maybe just the sound of fear [i]unraveling[/i].
+
+Evangeline turned toward the sound—toward the baby she couldn’t see, couldn’t reach—and she prayed.
+
+Not for herself. 
+*page_break Not anymore
+
+But for them. For [i]the survivors[/i]. For the one who had just entered this nightmare in a cradle of blood and fire.
+
+A burst of blinding light tore through the asylum.
+
+Flesh from bone. Hope from despair. Past from future.
+
+Evangeline felt her body [i]shatter[/i] under the force, [i]pain blooming like fire[/i], consuming everything. 
+She felt her body give way to heat, the agony shooting molten lava throughout her entire chest and limbs, searing down to the marrow.
+
+She thought of Elsie—[i]fragile, terrified Elsie[/i]—and wondered if she had enough strength to shield her from what came next. 
+She thought of her own daughter and son, their tiny hands and [i]gap-toothed smiles[/i], and the lullabies she used to hum while hiding bruises under her sleeves.
+
+And still—
+
+Still—
+
+That cry.
+
+[i]That newness.[/i]
+
+That impossible, sacred defiance of the end.
+
+She didn’t know whose child it was. She didn’t know if the mother had survived, or if the child would. 
+But she felt the thread tether between them, bright and unbroken, even as her own [i]frayed[/i] to nothing.
+
+[i]Let them live[/i], she thought.
+
+Let them carry the light I couldn’t.
+
+Let something come from this that isn’t horror.
+
+And as her vision dissolved into white, and her soul unraveled like a ribbon, she let go — 
+folding herself into that infant’s first breath, echoing forever in the shadows of [i]Saint Dymphna[/i].
+*page_break The End... For Now...
+
+[i]That’s where we leave it—for now.[/i]
+
+A heartbeat suspended in the dark.
+
+But the story is still breathing. Beneath the rubble of Saint Dymphna, beneath the silence and smoke, it waits. 
+I’m already tracing its next pulse—listening for echoes, peeling back memory, following the tremors where truth still hides.
+
+If something stayed with you—a breath Evangeline never got to take, a flicker of light in the hospital’s corridors, a cry you could almost hear in the dark—
+I would be honored to know.
+
+Your thoughts, your questions, your presence… they shape the way forward.
+
+Thank you for stepping into this with me.
+Thank you for feeling the weight of it.
+And thank you for holding space for softness, even in the aftermath of fire.
+
+We’ll return.
+There’s still more to remember.
+
+[i]Yours in the dark,
+
+Audrine[/i]
+
